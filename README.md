@@ -1,69 +1,78 @@
-Hospitality Revenue and Booking Analysis
-Overview
+🏨 Hospitality Revenue and Booking Analysis
+📌 Project Overview
 
-This project focuses on analyzing large-scale hospitality booking data to uncover revenue trends, platform performance, and customer behavior patterns. The goal was to transform raw booking records into clear, actionable insights that support business and financial decision-making.
+This project analyzes large-scale hospitality booking data to uncover revenue trends, platform performance, and customer behavior.
+The objective was to convert raw booking records into actionable business insights using structured analysis and interactive dashboards.
 
-The analysis emphasizes data accuracy, KPI-driven insights, and executive-ready dashboards, similar to real-world analytics work in consulting and business intelligence teams.
+The project mirrors real-world consulting and business intelligence workflows, from data preparation to executive-ready reporting.
 
-Business Problem
+🎯 Business Problem
 
-Hospitality businesses often struggle to:
+Hospitality businesses face challenges such as:
 
-Understand which booking channels drive the most revenue
+Identifying which booking platforms drive the most revenue
 
-Track revenue realization versus expected bookings
+Tracking realized vs expected revenue
 
-Identify high-value customer segments (corporate vs individual)
+Understanding high-value customer segments
 
-Convert raw booking data into insights usable by leadership teams
+Turning large datasets into decision-ready insights
 
-This project addresses these challenges using structured data analysis and visualization.
+This analysis addresses these problems using data analytics and visualization.
 
-Dataset
+📊 Dataset Summary
 
-Total records analyzed: 132,000+ booking entries
+Records analyzed: 132,000+ bookings
 
-Total revenue represented: $1.69 billion
+Revenue represented: $1.69 billion
 
-Data type: Structured transactional booking data
+Data type: Structured transactional data
 
-Key attributes: Booking date, platform, customer type, revenue, realization status
+Key fields: Booking date, platform, customer type, revenue, realization status
 
-Key Objectives
+🔍 Key Objectives
 
-Analyze revenue distribution across booking platforms
+Analyze revenue contribution by booking platform
 
-Measure revenue realization and identify gaps
+Measure and track revenue realization
 
 Segment bookings by business and individual customers
 
-Build KPI-driven dashboards for decision support
+Build KPI-driven dashboards for decision-making
 
-Analysis Performed
+🛠️ Analysis Workflow
 
-Cleaned and validated booking data to ensure consistency and accuracy
+Data Cleaning & Validation
 
-Performed exploratory data analysis (EDA) to identify trends and anomalies
+Removed inconsistencies and ensured data accuracy
 
-Created calculated metrics using DAX for revenue tracking and realization rates
+Exploratory Data Analysis (EDA)
 
-Segmented data by platform, customer type, and booking behavior
+Identified trends, patterns, and outliers
 
-Key Insights
+Metric & KPI Development
+
+Built calculated measures using DAX
+
+Dashboard Design
+
+Created intuitive visuals for fast insight consumption
+
+💡 Key Insights
 
 Analyzed 132,000+ bookings representing $1.69B in revenue
 
-Identified 70.1% revenue realization, highlighting unrealized booking potential
+Identified 70.1% revenue realization, highlighting unrealized potential
 
-Discovered that business bookings contributed over $500M in total revenue
+Found that business bookings generated over $500M in revenue
 
-Highlighted top-performing platforms driving the majority of realized revenue
+Highlighted top-performing platforms contributing the majority of realized revenue
 
-These insights help stakeholders prioritize platforms, optimize pricing strategies, and focus on high-value customer segments.
+These insights help stakeholders prioritize platforms, pricing strategies, and customer segments.
 
-Dashboards & Deliverables
+📈 Dashboards & Outputs
 
-Interactive Power BI dashboards with:
+Interactive Power BI dashboards featuring:
 
 Revenue KPIs
 
@@ -71,22 +80,22 @@ Platform-wise performance breakdown
 
 Customer segment analysis
 
-Realization vs expected revenue views
+Realized vs unrealized revenue views
 
-Dashboards were designed to be executive-friendly, enabling quick interpretation and decision-making.
+Dashboards were designed for executive-level consumption, enabling quick and informed decisions.
 
-Tools & Technologies
+🧰 Tools & Technologies
 
-Power BI – Dashboarding and visualization
+Power BI – Data visualization and dashboarding
 
-DAX – KPI calculations and measures
+DAX – KPI and metric calculations
 
-Microsoft Excel – Data cleaning and preprocessing
+Microsoft Excel – Data preparation and preprocessing
 
-Outcomes
+🚀 Outcomes & Impact
 
-Converted raw booking data into structured, decision-ready insights
+Transformed raw booking data into business-ready insights
 
-Enabled data-driven evaluation of platform and customer performance
+Enabled data-driven evaluation of revenue and platform performance
 
-Demonstrated real-world analytics workflow from raw data to executive dashboards
+Demonstrated a complete analytics lifecycle, from raw data to dashboards
