@@ -1,4 +1,4 @@
-🏨 Hospitality Revenue and Booking Analysis
+## 🏨 Hospitality Revenue and Booking Analysis
 📌 Project Overview
 
 This project analyzes large-scale hospitality booking data to uncover revenue trends, platform performance, and customer behavior.
