@@ -113,17 +113,6 @@ Dashboards are designed for **executive-level decision support**.
 - SQL-based scalable data pipelines
 - Automated dashboard refresh
 
----
 
-## 🔖 Hashtags
-
-#DataAnalytics  
-#BusinessIntelligence  
-#HospitalityAnalytics  
-#RevenueAnalysis  
-#PowerBI  
-#DAX  
-#KPIDashboards  
-#DataVisualization  
-#DecisionSupport  
+  
 #ConsultingAnalytics
