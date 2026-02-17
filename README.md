@@ -1,5 +1,15 @@
 # 🏨 Hospitality Revenue and Booking Analysis
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 ## 📌 Project Overview
 
 This project analyzes large-scale hospitality booking data to uncover revenue trends, platform performance, and customer behavior. The objective is to convert raw booking records into actionable business insights using structured analysis and interactive dashboards.
@@ -81,10 +91,10 @@ Dashboards are designed for executive-level decision support.
 
 | Layer | Tools |
 |---|---|
-| Data Warehouse | MySQL, SQL |
-| Data Cleaning & EDA | Python, Pandas, Jupyter Notebook |
-| Visualization | Power BI, DAX |
-| Data Source | CSV files (structured transactional data) |
+| 🗄️ Data Warehouse | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white) |
+| 🐍 Data Cleaning & EDA | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| 📊 Visualization | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| 📁 Data Source | ![Excel](https://img.shields.io/badge/CSV_/_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
 
 ---
 
